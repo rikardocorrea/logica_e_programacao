@@ -27,7 +27,7 @@ Inicio
       ESCREVAL("AULAS NO SENAI_____________________")
 
 
-      ENQUANTO continuar = "S" FACA
+      ENQUANTO (continuar = "S") ou (continuar = "s") FACA
          x <- x + 1
          qtd_total <- qtd_total + 1
       
