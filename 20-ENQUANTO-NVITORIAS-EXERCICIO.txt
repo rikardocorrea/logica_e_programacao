@@ -1,0 +1,16 @@
+Tarefa de Laço com acumuladores e estruturas de decisão.
+---------------------------------------------------------
+
+Crie um programa que irá perguntar no final de cada jogo, se houveram mais jogos;
+Em cada jogo de futebol, pensaremos que o time de nossa cidade estará enfrentado times de outras cidades;
+Pergunte ao usuário quantos gols o time da cidade vez e quantos gols o outro time (visitantes) fizeram;
+Se o time da cidade ganhou, ele receberá 3 pontos por cada jogo. Se empatou, ganhará 1 ponto ou se perdeu, 0 pontos;
+
+No final do programa, informe:
+1. Quantos jogos o time da cidade jogou;
+2. Quantas Vitórias [V] o time da cidade teve;
+3. Quantas Derrotas [D] o time da cidade teve;
+4. Quantos Empates  [E] o time da cidade teve;
+5. Qual foi a pontuação final do time da cidade;
+
+Bom trabalho!
